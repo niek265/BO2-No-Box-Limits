@@ -1,6 +1,6 @@
 # BO2-No-Box-Limits
 
-This modification disabled map specific and game specific weapon limits. \
+This modification disables map specific and game specific weapon limits. \
 There are a couple of versions I made so you can pick witch one fits best.
 
 ## Installation
