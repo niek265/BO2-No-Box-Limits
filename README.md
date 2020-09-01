@@ -1,7 +1,7 @@
 # BO2-No-Box-Limits
 
 This modification disables map specific and game specific weapon limits. \
-There are a couple of versions I made so you can pick witch one fits best.
+There are a couple of versions I made so you can pick which one fits best.
 
 ## Installation
 Compile one of the files as ```_zm_magicbox.gsc``` and place it in ```\t6r\data\maps\mp\zombies```.
